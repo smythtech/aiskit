@@ -1,7 +1,7 @@
 
 # Tools
 
-# aisdump.py
+## aisdump.py
 Parse and dump data from NMEA AIS data. 
 
 Usage:
@@ -20,7 +20,7 @@ Usage:
 
 Most AIS message types are supported. The raw data will be provided for message types that have not yet been implemented.
 
-# aiscraft.py
+## aiscraft.py
 Allows for the creation of custom AIS type 5 messages (so far). The message contents are defined in a json file. The tool will encode the contents of the file and output NMEA messages.
 
 
