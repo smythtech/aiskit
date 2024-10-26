@@ -1,0 +1,21 @@
+{
+    "mmsi": 123456789,
+    "repeat_indicator": 0,
+    "ais_version": 0,
+    "imo_number": 9876543,
+    "call_sign": "KRMT",
+    "vessel_name": "Hispaniola",
+    "ship_type": 70,
+    "dimension_to_bow": 50,
+    "dimension_to_stern": 12,
+    "dimension_to_port": 6,
+    "dimension_to_starboard": 6,
+    "position_fix_type": 1,
+    "eta_month": 12,
+    "eta_day": 25,
+    "eta_hour": 14,
+    "eta_minute": 30,
+    "draught": 7.5,
+    "destination": "Bristol",
+    "dte": 1
+}
